@@ -1,0 +1,4 @@
+Roman;196;2001;Zvolen
+Eva;184;2000;Prievidza
+Jana;180;2001;Nitra
+Adam;187;2002;Bratislava
